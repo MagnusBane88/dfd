@@ -7,8 +7,8 @@
 | Course Unit | Course Title | Main Contents | Books Used | Hours | Grade |
 |-------------|--------------|---------------|------------|-------|-------|
 | CL 2005 | Database Systems – Lab | Practical implementation of database design, querying, and management, directly relevant to data science workflows. | Database Systems by Thomas Connolly | 30 | A- |
-| CS 2006 | Operating Systems | Study of operating system concepts, including processes, memory management, and file systems, useful for data processing environments. | Operating System Concepts by Silberschatz et al. | 45 | A+ |
-| CL 2006 | Operating Systems – Lab | Practical exercises in operating system concepts, including process management and memory allocation, relevant for data science systems. | Operating System Concepts by Silberschatz et al. | 30 | A+ |
+| CS 2006 | Operating Systems | Study of operating system concepts, including processes, memory management, and file systems, useful for data processing environments. | Operating System Concepts by Silberschatz et al. | 45 | A- |
+| CL 2006 | Operating Systems – Lab | Practical exercises in operating system concepts, including process management and memory allocation, relevant for data science systems. | Operating System Concepts by Silberschatz et al. | 30 | A- |
 | CS 2005 | Database Systems | Fundamentals of database systems, including relational models, SQL, and normalization, essential for data storage and retrieval. | Database Systems by Thomas Connolly | 45 | B+ |
 | CS 3002 | Information Security | Principles of information security, including cryptography and access control, relevant for securing data science applications. | Information Security: Principles and Practice by Mark Stamp | 45 | B |
 | CS 4049 | Biotechnia and Cryptocurrency | Study of blockchain technology and cryptocurrencies, including data structures and algorithms used in decentralized systems. | Blockchain Basics by Daniel Drescher | 45 | B |
